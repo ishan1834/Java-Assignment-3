@@ -1,4 +1,5 @@
-# javaAssignment_3
+#  Java Assignment 3
+Java Programming Encs201
 📘 Student Result Management System — Java Project
 
 A simple Java-based console application to manage student records, validate marks, calculate results, and display detailed performance.
