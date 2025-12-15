@@ -58,6 +58,3 @@ Scanner
 Menu-driven loop
 👨‍💻 Author
 
-Vivek Rai
-B.Tech CSE — KR Mangalam University
-Passionate about Java, DSA, and backend development
