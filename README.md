@@ -55,6 +55,3 @@ Arrays
 
 Scanner
 
-Menu-driven loop
-👨‍💻 Author
-
